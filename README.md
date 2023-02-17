@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**HenricoAngolera/HenricoAngolera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou Henrico! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Eu sou um desenvolvedor front-end, em breve busco me aprofundar em back-end também.
+
+
+## 🛠 Habilidades
+Javascript | HTML | CSS
+
+
+## Outras informações
+👩‍💻 Estudo atualmente na Rocketseat
+
+🧠 Estou aprendendo Javascript | HTML | CSS | ReactJS
+
+🤝 Procuro colaborar evoluindo empresas com interfaces para usuários visando usabilidade, acessibilidade, design e desempenho.
+
+📫 Como entrar em contato comigo:
+
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://henricoangolera.github.io/portifolio-projetos/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrico-angolera-b89515243//)
