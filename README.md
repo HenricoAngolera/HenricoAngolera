@@ -19,7 +19,7 @@ Eu sou um desenvolvedor front-end, em breve busco me aprofundar em back-end tamb
 
 🤝 Procuro colaborar evoluindo empresas com interfaces para usuários visando usabilidade, acessibilidade, design e desempenho.
 
-📫 Como entrar em contato comigo:
+📫 Como entrar em contato comigo: henrico.an@gmail.com
 
 
 ## 🔗 Links
