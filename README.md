@@ -7,13 +7,13 @@ Eu sou um desenvolvedor front-end, em breve busco me aprofundar em back-end tamb
 
 
 ## 🛠 Habilidades
-`Javascript` | `HTML` | `CSS`
+`Javascript` | `HTML5` | `CSS3`
 
 
 ## Outras informações
 👩‍💻 Estudo atualmente na Rocketseat
 
-🧠 Estou aprendendo: `Javascript` | `HTML` | `CSS` | `ReactJS`
+🧠 Estou aprendendo: `Javascript` | `HTML5` | `CSS3` | `ReactJS`
 
 🛠️ Outras experiências em ferramentas: `Figma` | `Git & Github` 
 
