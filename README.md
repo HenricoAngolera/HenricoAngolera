@@ -3,19 +3,19 @@
 
 
 ## 🚀 Sobre mim
-Eu sou um desenvolvedor front-end, em breve busco me aprofundar em back-end também.
+Eu sou um desenvolvedor front-end, mas estou me aprofundando em back-end também.
 
 
 ## 🛠 Habilidades
-`Javascript` | `HTML5` | `CSS3`
+`Javascript` | `HTML5` | `CSS3`| `Node.js` | `SQL`
 
 
 ## Outras informações
 👩‍💻 Estudo atualmente na Rocketseat
 
-🧠 Estou aprendendo: `Javascript` | `HTML5` | `CSS3` | `ReactJS`
+🧠 Estou aprendendo: `Javascript` | `HTML5` | `CSS3` | `Node.js` | `ReactJS`
 
-🛠️ Outras experiências em ferramentas: `Figma` | `Git & Github` 
+🛠️ Outras experiências em ferramentas: `Figma` | `Git & Github` | `Insomnia` | `Beekeeper`
 
 🤝 Procuro colaborar evoluindo empresas com interfaces para usuários visando usabilidade, acessibilidade, design e desempenho.
 
