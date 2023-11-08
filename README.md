@@ -7,7 +7,7 @@ Eu sou um desenvolvedor front-end, mas estou me aprofundando em back-end também
 
 
 ## 🛠 Habilidades
-`Javascript` | `HTML5` | `CSS3`| `Node.js` | `SQL`
+`Javascript` | `HTML5` | `CSS3`| `Node.js` | `SQL` | `ReactJS`
 
 
 ## Outras informações
